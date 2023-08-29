@@ -1,6 +1,6 @@
 # College API
 
-Welcome to the College API! This API provides endpoints to fetch information about colleges in India.
+Welcome to the College API! This API showcases a collection of undergraduate engineering colleges in India that are approved by the All India Council for Technical Education (AICTE) along with their respective states.
 
 ## Getting Started
 
