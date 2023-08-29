@@ -1,73 +1,190 @@
 [
     {
-        "name":"A. D. Patel Institute of Technology"
+        "name":"DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY",
+        "state": "Andaman and Nicobar Islands"
     },
     {
-        "name": "A.K.G. Engineering College"
+        "name":"DAITA MADHUSUDANA SASTRY SRI VENKATESWARA HINDU COLLEGE OF ENGINEERING",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "A.R.J. College of Engineering and Technology"
+        "name":"TADIPATRI ENGINEERING COLLEGE",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "ABES Engineering College"
+        "name":"UNIVERSITY COLLEGE OF ENGINEERING KAKINADA",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "ACE Engineering College"
+        "name":"SRI VENKATESWARA COLLEGE OF ENGINEERING",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "AES American Embassy School"
+        "name":"R.K. COLLEGE OF ENGINEERING",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "AIMIT"
+        "name":"GDMM COLLEGE OF ENGINEERING & TECHNOLOGY",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "AIT"
+        "name":"CHALAPATHI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "AMC Engineering College"
+        "name":"GEETHANJALI INSTITUTE OF SCIENCE AND TECHNOLOGY",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "APS College of Engineering"
+        "name":"V.K.R., V.N.B. A.G.K. COLLEGE OF ENGINEERING",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "AQJ College"
+        "name":"NIMRA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "ASM Institute of Business Management and Research"
+        "name":"PRAGATI ENGINEERING COLLEGE",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "Aalim Muhammed Salegh College"
+        "name":"AVANTHI'S RESEARCH & TECHNOLOGICAL ACADEMY",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "Aarupadai Veedu Institute of Technology"
+        "name":"SIR C R REDDY COLLEGE OF ENGINEERING",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "Acharya Institute of Technology"
+        "name":"SAI TIRUMALA NALABOTHU VENKATA RAO ENGINEERING COLLEGE",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "Acharya N.G. Ranga Agricultural University"
+        "name":"SRI VENKATESWARA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "Acharya Nagarjuna Vishwavidhyalayamu"
+        "name":"ADITYA INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "Acropolis Institute of Technology and Research"
+        "name":"RAYALASEEMA UNIVERSITY COLLEGE OF ENGINEERING",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "Acropolis Technical Campus"
+        "name":"KALLAM HARANADHAREDDY INSTITUTE OF TECHNOLOGY",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "Adhiyamaan College of Engineering"
+        "name":"RGUKT- RK VALLEY",
+        "state": "Andhra Pradesh"
+    },
+    
+    {
+        "name":"DVR&DR.HS MIC COLLEGE OF TECHNOLOGY",
+        "state": "Andhra Pradesh"
     },
     {
-        "name": "Adi Shankara Institute of Engineering and Technology"
+        "name":"NORTH EASTERN REGIONAL INSTITUTE OF SCIENCE & TECHNOLOGY",
+        "state": "Arunachal Pradesh"
     },
     {
-        "name": "Adikavi Nannaya University"
+        "name":"NORTH EASTERN REGIONAL INSTITUTE OF SCIENCE & TECHNOLOGY",
+        "state": "Arunachal Pradesh"
+    },
+    {
+        "name":"JORHAT ENGINEERING COLLEGE",
+        "state": "Assam"
+    },
+    {
+        "name":"DHEMAJI ENGINEERING COLLEGE",
+        "state": "Assam"
+    },
+    {
+        "name":"GOLAGHAT ENGINEERING COLLEGE",
+        "state": "Assam"
+    },
+    {
+        "name":"TEZPUR UNIVERSITY",
+        "state": "Assam"
+    },
+    {
+        "name":"SCHOOL OF ENGINEERING",
+        "state": "Assam"
+    },
+    {
+        "name":"JORHAT INSTITUTE OF SCIENCE & TECHNOLOGY",
+        "state": "Assam"
+    },
+    {
+        "name":"ASSAM DON BOSCO UNIVERSITY SCHOOL OF TECHNOLOGY",
+        "state": "Assam"
+    },
+    {
+        "name":"GAUHATI UNIVERSITY INSTITUTE OF SCIENCE AND TECHNOLOGY",
+        "state": "Assam"
+    },
+    {
+        "name":"BINESWAR BRAHMA ENGINEERING |COLLEGE",
+        "state": "Assam"
+    },
+    {
+        "name":"ASSAM ENGINEERING COLLEGE",
+        "state": "Assam"
+    },
+    {
+        "name":"BARAK VALLEY ENGINEERING COLLEGE",
+        "state": "Assam"
+    },
+    {
+        "name":"DIBRUGARH UNIVERSITY INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "state": "Assam"
+    },
+    {
+        "name":"SCHOLAR'S INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+        "state": "Assam"
+    },
+    {
+        "name":"TRIGUNA SEN SCHOOL OF TECHNOLOGY",
+        "state": "Assam"
+    },
+    {
+        "name":"CENTRAL INSTITUTE OF TECHNOLOGY KOKRAJHAR",
+        "state": "Assam"
+    },
+    {
+        "name":"GIRIJANANDA CHOWDHURY UNIVERSITY, ASSAM",
+        "state": "Assam"
+    },
+    {
+        "name":"THE ASSAM ROYAL GLOBAL UNIVERSITY",
+        "state": "Assam"
+    },
+    {
+        "name":"KU SCHOOL OF ENGINEERING TECHNOLOGY AND MANAGEMENT",
+        "state": "Assam"
+    },
+    {
+        "name":"ASSAM DOWN TOWN UNIVERSITY",
+        "state": "Assam"
+    },
+    {
+        "name": "A.K.G. Engineering College",
+        "state": "state 2"
+    },
+    {
+        "name": "A.R.J. College of Engineering and Technology",
+        "state": "state 3"
+    },
+    {
+        "name": "ABES Engineering College",
+        "state": "state 4"
+    },
+    {
+        "name": "ACE Engineering College",
+        "state": "state 5"
     }
 ]
-        
-        
         
         
         
