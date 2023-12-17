@@ -32,7 +32,7 @@ function Demo() {
   return (
     <div className="lg:flex justify-center items-center mt-20 p-10">
         <div className="lg:mr-5">
-     <label htmlfor="state" className="mb-2" >Choose a State:</label>
+     <label htmlFor="state" className="mb-2" >Choose a State:</label>
      <div className='mt-2'>
       <select name="state" value = {selectedState} onChange={(event) => {
         setSelectedState(event.target.value);
@@ -49,7 +49,7 @@ function Demo() {
       </div>
 
        <div className='lg:ml-5'>
-      <label htmlfor="college mb-2">Choose a College:</label>
+      <label htmlFor="college mb-2">Choose a College:</label>
       <div className='mt-2'>
 
       <select name="college" id="college">
