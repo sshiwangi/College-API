@@ -3,10 +3,9 @@ const state = require("../models/state");
 const getAllStates = async (req, res) => {
   try {
     const allStates = await state.find();
-    console.log(allStates)
+    // console.log(allStates)
     res.status(200).json({ allStates });
-    console.log('done')
-    
+    // console.log('done')
   } catch (error) {
     console.error("Error fetching states:", error);
     res.status(500).json({ error: "Internal Server Error" });
