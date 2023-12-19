@@ -30,7 +30,7 @@ function Demo() {
   }
 
   return (
-    <div className="lg:flex justify-center items-center mt-20 p-10">
+    <div className="lg:flex h-screen justify-center mt-20 p-10">
         <div className="lg:mr-5">
      <label htmlFor="state" className="mb-2" >Choose a State:</label>
      <div className='mt-2'>

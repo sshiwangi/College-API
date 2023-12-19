@@ -3,7 +3,7 @@ import "../styles/tailwind.css";
 
 function Home() {
   return (
-    <div className="bg-gray-900">
+    <div className="bg-gray-900 min-h-screen">
       <div className="flex justify-center items-center">
         <div className=" isolate overflow-hidden bg-gray-900 px-6 pt-16 sm:px-16 md:pt-24 lg:flex lg:justify-center lg:items-center lg:gap-x-20 lg:px-24 lg:pt-0">
           <div className="mx-auto max-w-md text-center lg:mx-0 lg:flex-auto lg:py-32 lg:text-center">
