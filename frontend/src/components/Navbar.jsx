@@ -1,6 +1,7 @@
 import { Fragment, useState } from "react";
 import { Disclosure, Menu, Transition } from "@headlessui/react";
 import { Bars3Icon, BellIcon, XMarkIcon } from "@heroicons/react/24/outline";
+import { Link } from 'react-router-dom';
 
 const navigation = [
   { name: "Documentation", href: "/docs"},
@@ -13,7 +14,10 @@ function classNames(...classes) {
 
 export default function Navbar() {
   const [currentItem, setCurrentItem] = useState(null);
-  const handleItemClick = (itemName) => {
+
+  const handleItemClick = (event, itemName) => {
+    // event.preventDefault();
+    // console.log('Item clicked:', itemName);
     setCurrentItem(itemName);
   };
   return (
@@ -43,10 +47,10 @@ export default function Navbar() {
                 <div className="hidden sm:ml-6 sm:block">
                   <div className="flex space-x-4">
                     {navigation.map((item) => (
-                      <a
+                      <Link
                         key={item.name}
-                        href={item.href}
-                        onClick={() => handleItemClick(item.name)}
+                        to={item.href}
+                        onClick={(e) => handleItemClick(e, item.name)}
                         className={classNames(
                           currentItem === item.name
                             ? "bg-gray-900 text-white"
@@ -56,7 +60,7 @@ export default function Navbar() {
                         aria-current={currentItem === item.name ? "page" : undefined}
                       >
                         {item.name}
-                      </a>
+                      </Link>
                     ))}
                   </div>
                 </div>
