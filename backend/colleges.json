@@ -381,21 +381,902 @@
         "state": "Goa"
     },
     {
-        "name": "A.K.G. Engineering College",
-        "state": "state 2"
+        "name": "UNIVERSITY COLLEGE OF SCIENCE & TECHNOLOGY,CALCUTTA UNIVERSITY",
+        "state": "West Bengal"
     },
     {
-        "name": "A.R.J. College of Engineering and Technology",
-        "state": "state 3"
+        "name": "GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "state": "West Bengal"
     },
     {
-        "name": "ABES Engineering College",
-        "state": "state 4"
+        "name": "UNIVERSITY INSTITUTE OF TECHNOLOGY",
+        "state": "West Bengal"
     },
     {
-        "name": "ACE Engineering College",
-        "state": "state 5"
+        "name": "UNIVERSITY SCIENCE INSTRUMENTATION CENTRE",
+        "state": "West Bengal"
+    },
+    {
+        "name": "ELITTE COLLEGE OF ENGIINEERING",
+        "state": "West Bengal"
+    },
+    {
+        "name": "BENGAL INSTITUTE OF TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "TECHNO INDIA UNIVERSITY, WEST BENGAL",
+        "state": "West Bengal"
+    },
+    {
+        "name": "MEGHNAD SAHA INSTITUTE OF TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "DEPARTMENT OF JUTE & FIBRE TECHNOLOGY,INSTITUTE OF JUTE TECHNOLOGY,UNIVERSITY OF CALCUTTA",
+        "state": "West Bengal"
+    },
+    {
+        "name": "FUTURE INSTITUTE OF ENGINEERING AND MANAGEMENT",
+        "state": "West Bengal"
+    },
+    {
+        "name": "B. P. PODDAR INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "COLLEGE OF ENGINEERING & MANAGEMENT, KOLAGHAT",
+        "state": "West Bengal"
+    },
+    {
+        "name": "GOVERNMENT COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "NARULA INSTITUTE OF TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "HERITAGE INSTITUTE OF TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "GURUNANAK INSTITUTE OF TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "JALPAIGURI GOVERNMENT ENGINEERING COLLEGE",
+        "state": "West Bengal"
+    },
+    {
+        "name": "DR. B.C. ROY ENGINEERING COLLEGE, DURGAPUR",
+        "state": "West Bengal"
+    },
+    {
+        "name": "BENGAL COLLEGE OF ENGINEERING & TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "CAMELLIA INSTITUTE OF TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "KALYANI GOVERNMENT ENGINEERING COLLEGE",
+        "state": "West Bengal"
+    },
+    {
+        "name": "SEACOM ENGINEERING COLLEGE",
+        "state": "West Bengal"
+    },
+    {
+        "name": "JIS COLLEGE OF ENGINEERING",
+        "state": "West Bengal"
+    },
+    {
+        "name": "RCC INSTITUTE OF INFORMATION TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "TECHNO INDIA UNIVERSITY, WEST BENGAL",
+        "state": "West Bengal"
+    },
+    {
+        "name": "GOVT. COLLEGE OF ENGINEERING AND TEXTILE TECHNOLOGY, BERHAMPORE",
+        "state": "West Bengal"
+    },
+    {
+        "name": "INSTITUTE OF SCIENCE AND TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "ST. THOMAS' COLLEGE OF ENGINEERING & TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "TECHNO COLLEGE HOOGHLY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "HEMNALINI MEMORIAL COLLEGE OF ENGINEERING",
+        "state": "West Bengal"
+    },
+    {
+        "name": "TECHNO INTERNATIONAL NEW TOWN",
+        "state": "West Bengal"
+    },
+    {
+        "name": "BENGAL INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+        "state": "West Bengal"
+    },
+    {
+        "name": "NETAJI SUBHASH ENGINEERING COLLEGE",
+        "state": "West Bengal"
+    },
+    {
+        "name": "TECHNO MAIN SALT LAKE",
+        "state": "West Bengal"
+    },
+    {
+        "name": "ASANSOL ENGINEERING COLLEGE",
+        "state": "West Bengal"
+    },
+    {
+        "name": "CAMELLIA SCHOOL OF ENGINEERING & TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "FUTURE INSTITUTE OF TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY,SERAMPORE",
+        "state": "West Bengal"
+    },
+    {
+        "name": "GOVERNMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "BANKURA UNNAYANI INSTITUTE OF ENGINEERING",
+        "state": "West Bengal"
+    },
+    {
+        "name": "HALDIA INSTITUTE OF TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "SISTER NIVEDITA UNIVERSITY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "JADAVPUR UNIVERSITY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "BUDGE BUDGE INSTITUTE OF TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "TECHNO ENGINEERING COLLEGE BANIPUR",
+        "state": "West Bengal"
+    },
+    {
+        "name": "MCKV INSTITUTE OF ENGINEERING",
+        "state": "West Bengal"
+    },
+    {
+        "name": "SILIGURI INSTITUTE OF TECHNOLOGY",
+        "state": "West Bengal"
+    },
+    {
+        "name": "UNIVERSITY OF ENGINEERING AND MANAGEMENT KOLKATA",
+        "state": "West Bengal"
+    },
+    {
+        "name": "CALCUTTA INSTITUTE OF ENGINEERING AND MANAGEMENT",
+        "state": "West Bengal"
+    },
+    {
+        "name": "MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY WEST BENGAL",
+        "state": "West Bengal"
+    },
+    {
+        "name": "BIPIN TRIPATHI KUMAON INSTITUTE OF TECHNOLOGY",
+        "state": "Uttarakhand"
+    },
+    {
+        "name": "BIPIN TRIPATHI KUMAON INSTITUTE OF TECHNOLOGY",
+        "state": "Uttarakhand"
+    },
+    {
+        "name": "GRAPHIC ERA DEEMED TO BE UNIVERSITY",
+        "state": "Uttarakhand"
+    },
+    {
+        "name": "G.B.PANT INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "state": "Uttarakhand"
+    },
+    {
+        "name": "RAMANAND INSTITUTE OF PHARMACY AND MANAGEMENT,HARIDWAR",
+        "state": "Uttarakhand"
+    },
+    {
+        "name": "COLLEGE OF TECHNOLOGY, PANTNAGAR",
+        "state": "Uttarakhand"
+    },
+    {
+        "name": "BISHAMBER SAHAI INSTITUTE OF TECHNOLOGY",
+        "state": "Uttarakhand"
+    },
+    {
+        "name": "ROORKEE COLLEG EOF ENGINEERING",
+        "state": "Uttarakhand"
+    },
+    {
+        "name": "SHIVALIK COLLEGE OF ENGINEERING",
+        "state": "Uttarakhand"
+    },
+    {
+        "name": "BEEHIVE COLLEGE OF ENGINEERING & TECHNOLOGY",
+        "state": "Uttarakhand"
+    },
+    {
+        "name": "GOVERNMENT POLYTECHNIC NARENDRA NAGAR",
+        "state": "Uttarakhand"
+    },
+    {
+        "name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY JHANSI",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "name": "TRINITY INSTITUTE OF INNOVATIONS IN PROFESSIONAL STUDIES",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "name": "INSTITUTE OF ENGINEERING & TECHNOLOGY",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "name": "FACULTY OF ENGINEERING & TECHNOLOGY, R.B.S.COLLEGE, BICHPURI CAMPUS, AGRA.",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "name": "INDIAN INSTITUTE OF CARPET TECHNOLOGY",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "name": "GCRG MEMORIAL TRUST'S GROUP OF INSTITUTIONS",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "name": "SAROJ INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "name": "INSTITUTE OF TECHNOLOGY &MANAGEMENT,LUCKNOW",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "name": "BABU SUNDER SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "name": "TECHNO COLLEGE OF ENGINEERING AGARTALA",
+        "state": "Tripura"
+    },
+    {
+        "name": "MALLA REDDY ENGINEERING COLLEGE FOR WOMEN",
+        "state": "Telangana"
+    },
+    {
+        "name": "NOBLE COLLEGE OF ENGG. & TECH. FOR WOMEN(NETW)",
+        "state": "Telangana"
+    },
+    {
+        "name": "VASAVI COLLEGE OF ENGINEERING",
+        "state": "Telangana"
+    },
+    {
+        "name": "NALLA NARASIMHA REDDY EDUCATION SOCIETY'S GROUP OF INSTITUTIONS",
+        "state": "Telangana"
+    },
+    {
+        "name": "ISL ENGINEERING COLLEGE",
+        "state": "Telangana"
+    },
+    {
+        "name": "ADUSUMILLI VIJAYA INSTITUTE OF TECHNOLOGY AND RESEARCH CENTRE",
+        "state": "Telangana"
+    },
+    {
+        "name": "SREE DATTHA INSTITUTE OF ENGINEERING AND SCIENCE",
+        "state": "Telangana"
+    },
+    {
+        "name": "KESHAV MEMORIAL INSTITUTE OF TECHNOLOGY",
+        "state": "Telangana"
+    },
+    {
+        "name": "UNIVERSITY COLLEGE OF ENGINEERING",
+        "state": "Telangana"
+    },
+    {
+        "name": "MINA INSTITUTE OF ENGINERING TECHNOLOGY FOR WOMEN",
+        "state": "Telangana"
+    },
+    {
+        "name": "KOMMURI PRATAP REDDY INSTITUTE OF MANAGEMENT",
+        "state": "Telangana"
+    },
+    {
+        "name": "MARRI LAXMAN REDDY INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+        "state": "Telangana"
+    },
+    {
+        "name": "DECCAN GROUP OF INSTITUTIONS",
+        "state": "Telangana"
+    },
+    {
+        "name": "DR.MAHALINGAM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "state": "Tamil Nadu"
+    },
+    {
+        "name": "NADAR SARASWATHI COLLEGE OF ENGINEERING & TECHNOLOGY",
+        "state": "Tamil Nadu"
+    },
+    {
+        "name": "SASURIE COLLEGE OF ENGINEERING",
+        "state": "Tamil Nadu"
+    },
+    {
+        "name": "GOVERNMENT COLLEGE OF ENGINEERING",
+        "state": "Tamil Nadu"
+    },
+    {
+        "name": "KARPAGAM COLLEGE OF ENGINEERING",
+        "state": "Tamil Nadu"
+    },
+    {
+        "name": "SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+        "state": "Tamil Nadu"
+    },
+    {
+        "name": "ANNAMALAIAR COLLEGE OF ENGINEERING",
+        "state": "Tamil Nadu"
+    },
+    {
+        "name": "SASTRA DEEMED UNIVERSITY",
+        "state": "Tamil Nadu"
+    },
+    {
+        "name": "PERI INSTITUTE OF TECHNOLOGY",
+        "state": "Tamil Nadu"
+    },
+    {
+        "name": "IDHAYA ENGINEERING COLLEGE FOR WOMEN",
+        "state": "Tamil Nadu"
+    },
+    {
+        "name": "SUGUNA COLLEGE OF ENGINEERING",
+        "state": "Tamil Nadu"
+    },
+    {
+        "name": "PODHIGAI COLLEGE OF ENGINEERING & TECHNOLOGY",
+        "state": "Tamil Nadu"
+    },
+    {
+        "name": "SIKKIM MANIPAL INSTITUTE OF TECHNOLOGY",
+        "state": "Sikkim"
+    },
+    {
+        "name": "COLLEGE OF DAIRY & FOOD TECHNOLOGY",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "GOVERNMENT ENGINEERING COLLEGE JHALAWAR",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "ENGINEERING COLLEGE BIKANER",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING AND TECHNOLOGY CIPET",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "ARYA COLLEGE OF ENGINEERING & INFORMATION TECHNOLOGY",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "BANASTHALI VIDYAPITH DEEMED TO BE UNIVERSITY",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "JAIPUR ENGINEERING COLLEGE",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "B.K. BIRLA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "GOVT. MAHILA ENGINEERING COLLEGE AJMER",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "SWAMI KESHVANAND INSTITUTE OF TECHNOLOGY, MANAGEMENT & GRAMOTHAN",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "FACULTY OF DAIRY TECHNOLOGY JODHPUR",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "RAJASTHAN INSTITUTE OF ENGINEERING & TECHNOLOGY",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "GLOBAL INSTITUTE OF TECHNOLOGY",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "RAJASTHAN INSTITUTE OF ENGINEERING & TECHNOLOGY",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "GLOBAL INSTITUTE OF TECHNOLOGY",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "SHANKARA INSTITUTE OF TECHNOLOGY",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "SIDDHI VINAYAK COLLEGE OF SCIENCE & HR. EDUCATION",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "JAIPUR ENGINEERING COLLEGE AND RESEARCH CENTRE",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "RAJASTHAN TECHNICAL UNIVERSITY, KOTA",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "MBM UNIVERSITY JODHPUR",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "MLV TEXTILE & ENGINEERING COLLEGE, BHILWARA",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "ENGINEERING COLLEGE,AJMER",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "ARYA COLLEGE OF ENGINEERING",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "MANIPAL UNIVERSITY JAIPUR",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "ANAND INTERNATIONAL COLLEGE OF ENGINEERING",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "JODHPUR INSTITUTE OF ENGINEERING & TECHNOLOGY",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "POORNIMA COLLEGE OF ENGINEERING",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "NATIONAL INSTITUTE OF ELECTRONICS AND INFORMATION TECHNOLOGY AJMER",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "BIKANER TECHNICAL UNIVERSITY",
+        "state": "Rajasthan"
+    },
+    {
+        "name": "BHAI GURDAS INSTITUTE OF ENGINEERING & TECHNOLOGY",
+        "state": "Punjab"
+    },
+    {
+        "name": "DOABA INSTITUTE OF ENGG. & TECH.",
+        "state": "Punjab"
+    },
+    {
+        "name": "RAYAT BAHRA INSTITUTE OF ENGINEERING AND NANO-TECHNOLOGY",
+        "state": "Punjab"
+    },
+    {
+        "name": "CHANDIGARH ENGINEERING COLLEGE-CGC, LANDRAN, MOHALI",
+        "state": "Punjab"
+    },
+    {
+        "name": "RAMGARHIA INSTITUTE OF ENGINEERING & TECHNOLOGY",
+        "state": "Punjab"
+    },
+    {
+        "name": "BABA KUMA SINGH JI ENGG COLLEGE,AMRITSAR",
+        "state": "Punjab"
+    },
+    {
+        "name": "APEEJAY INSTITUTE OF MANAGEMENT AND ENGINEERING TECHNICAL CAMPUS",
+        "state": "Punjab"
+    },
+    {
+        "name": "DEPARTMENT OF MECHANICAL ENGINEERING",
+        "state": "Punjab"
+    },
+    {
+        "name": "GULZAR COLLEGE OF ENGINEERING",
+        "state": "Punjab"
+    },
+    {
+        "name": "BHAI GURDAS INSTITUTE OF ENGINEERING & TECHNOLOGY",
+        "state": "Punjab"
+    },
+    {
+        "name": "GURU NANAK DEV ENGINEERING COLLEGE",
+        "state": "Punjab"
+    },
+    {
+        "name": "BABA FARID COLLEGE OF ENGINEERING & TECHNOLOGY",
+        "state": "Punjab"
+    },
+    {
+        "name": "GLOBAL GROUP OF INSTITUTES",
+        "state": "Punjab"
+    },
+    {
+        "name": "THAPAR INSTITUTE OF ENGINEERING AND TECHNOLOGY DEEMED TO BE UNIVERSITY",
+        "state": "Punjab"
+    },
+    {
+        "name": "MALOUT INSTITUTE OF MANAGEMENT AND INFORMATION TECHNOLOGY, MALOUT",
+        "state": "Punjab"
+    },
+     {
+        "name": "ALPHA COLLEGE OF ENGINEERING & TECHNOLOGY",
+        "state": "Puducherry"
+    },
+    {
+        "name": "PUDUCHERRY TECHNOLOGICAL UNIVERSITY",
+        "state": "Puducherry"
+    },
+    {
+        "name": "SRI MANAKULA VINAYAGAR ENGINEERING COLLEGE",
+        "state": "Puducherry"
+    },
+    {
+        "name": "CHRIST COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "state": "Puducherry"
+    },
+    {
+        "name": "MANAKULA VINAYAGAR INSTITUTE OF TECHNOLOGY",
+        "state": "Puducherry"
+    },
+    {
+        "name": "PERUNTHANALAIVAR KAMARAJAR INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "state": "Puducherry"
+    },
+    {
+        "name": "RAJIV GANDHI COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "state": "Puducherry"
+    },
+    {
+        "name": "BHADRAK INSTITUTE OF ENGINEERING & TECHNOLOGY, BARAPADA, BHADRAK",
+        "state": "Odisha"
+    },
+    {
+        "name": "KALINGA INSTITUE OF INDUSTRIAL TECHNOLOGY",
+        "state": "Odisha"
+    },
+    {
+        "name": "SILICON INSTITUTE OF TECHNOLOGY",
+        "state": "Odisha"
+    },
+    {
+        "name": "SUBAS INSTITUTE OF TECHNOLOGY",
+        "state": "Odisha"
+    },
+    {
+        "name": "GITA AUTONOMOUS COLLEGE, BHUBANESWAR",
+        "state": "Odisha"
+    },
+    {
+        "name": "GAYATRI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "state": "Odisha"
+    },
+    {
+        "name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING AND TECHNOLOGY",
+        "state": "Odisha"
+    },
+    {
+        "name": "ODISHA UNIVERSITY OF TECHNOLOGY AND RESEARCH",
+        "state": "Odisha"
+    },
+    {
+        "name": "TRIDENT ACADEMY OF TECHNOLOGY",
+        "state": "Odisha"
+    },
+    {
+        "name": "MAJHIGHARIANI INSTITUTE OF TECHNOLOGY AND SCIENCE",
+        "state": "Odisha"
+    },
+    {
+        "name": "GOPAL KRISHNA COLLEGE OF ENGGINEERING & TECHNOLOGY, JEYPORE",
+        "state": "Odisha"
+    },
+    {
+        "name": "SCHOOL OF ENGINEERING AND TECHNOLOGY",
+        "state": "Nagaland"
+    },
+    {
+        "name": "SCHOOL OF ENGINEERING AND TECHNOLOGY",
+        "state": "Mizoram"
+    },
+    {
+        "name": "SCHOOL OF ENGINEERING AND TECHNOLOGY",
+        "state": "Meghalaya"
+    },
+    {
+        "name": "MCT'S RAJIV GANDHI INSTITUTE OF TECHNOLOGY, MUMBAI",
+        "state": "Maharashtra"
+    },
+    {
+        "name": "MCT'S RAJIV GANDHI INSTITUTE OF TECHNOLOGY, MUMBAI",
+        "state": "Maharashtra"
+    },
+    {
+        "name": "GENBA SOPANRAO MOZE TRUST'S PARVATIBAI GENBA MOZE COLLEGE OF ENGINEERING,WAGHOLI, PUNE",
+        "state": "Maharashtra"
+    },
+    {
+        "name": "ST. VINCENT PALLOTTI COLLEGE OF ENGG. & TECHNOLOGY, NAGPUR",
+        "state": "Maharashtra"
+    },
+    {
+        "name": "SHRI GURU GOBIND SINGHJI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "state": "Maharashtra"
+    },
+    {
+        "name": "DR D Y PATIL VIDYAPEETH PUNE",
+        "state": "Maharashtra"
+    },
+    {
+        "name": "PILLAI HOC COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "state": "Maharashtra"
+    },
+    {
+        "name": "JSPM'S BHIVARABAI SAWANT INSTITUTE OF TECHNOLOGY & RESEARCH",
+        "state": "Maharashtra"
+    },
+    {
+        "name": "SHRI YOGINDRA SAGAR INSTITUTE OF TECHNOLOGY & SCIENCE",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "name": "NAGAJI INSTITUTE OF TECHNOLOGY & MANAGEMENT, GWALIOR",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "name": "SWAMI VIVEKANAND COLLEGE OF ENGINEERING",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "name": "GWALIOR INSTITUTE OF INFORMATION TECHNOLOGY",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "name": "GLOBAL INSTITUTE OF ENGG. AND SCIENCE",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "name": "SWAMI VIVEKANAND INSTITUTE OF TECHNOLOGY, SAGAR",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "name": "INSTITUTE OF ENGINEERING & TECHNOLOGY",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "name": "RUSTAMJI INSTITUTE OF TECHNOLOGY",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "name": "GOVT. ENGINEERING COLLEGE, BARTON HILL",
+        "state": "Kerala"
+    },
+    {
+        "name": "GOVT. ENGINEERING COLLEGE, BARTON HILL",
+        "state": "Kerala"
+    },
+    {
+        "name": "COLLEGE OF DAIRY SCIENCE AND TECHNOLOGY",
+        "state": "Kerala"
+    },
+    {
+        "name": "SCHOOL OF OCEAN ENGINEERING AND UNDERWATER TECHNOLOGY",
+        "state": "Kerala"
+    },
+    {
+        "name": "PROVIDENCE COLLEGE OF ENGINEERING",
+        "state": "Kerala"
+    },
+    {
+        "name": "SCMS SCHOOL OF ENGINEERING & TECHNOLOGY",
+        "state": "Kerala"
+    },
+    {
+        "name": "UNIVERSITY COLLEGE OF ENGINEERING, KARIAVATTOM",
+        "state": "Kerala"
+    },
+    {
+        "name": "KMCT COLLEGE OF ENGINEERING",
+        "state": "Kerala"
+    },
+    {
+        "name": "MUSALIAR COLLEGE OF ENGINEERING",
+        "state": "Kerala"
+    },
+    {
+        "name": "SAPTHAGIRI COLLEGE OF ENGINEERING",
+        "state": "Karnataka"
+    },
+    {
+        "name": "MANGALORE INSTITUTE OF TECHNOLOGY & ENGINEERING",
+        "state": "Karnataka"
+    },
+    {
+        "name": "NITTE MEENAKSHI INSTITUTE OF TECHNOLOGY",
+        "state": "Karnataka"
+    },
+    {
+        "name": "RAJARAJESWARI COLLEGE OF ENGINEERING",
+        "state": "Karnataka"
+    },
+    {
+        "name": "BAPUJI INSTITUTE OF ENGINEERING & TECHNOLOGY",
+        "state": "Karnataka"
+    },
+    {
+        "name": "DAYANANDA SAGAR ACADEMY OF TECHNOLOGY & MANAGEMENT TECHNICAL CAMPUS",
+        "state": "Karnataka"
+    },
+    {
+        "name": "KLE TECHNOLOGICAL UNIVERSITY",
+        "state": "Karnataka"
+    },
+    {
+        "name": "AKSHAYA INSTITUTE OF TECHNOLOGY",
+        "state": "Karnataka"
+    },
+    {
+        "name": "SAPTHAGIRI COLLEGE OF ENGINEERING",
+        "state": "Karnataka"
+    },
+    {
+        "name": "UNIVERSITY COLLEGE OF ENGINEERING AND TECHNOLOGY (UCET)",
+        "state": "Jharkhand"
+    },
+        {
+        "name": "DUMKA ENGINEERING COLLEGE (ESTD. BY GOVT. OF JHARKHAND & RUN BY TECHNO INDIA UNDER PPP)",
+        "state": "Jharkhand"
+    },
+        {
+        "name": "GURU GOBIND SINGH EDUCATIONAL SOCIETY'S TECHNICAL CAMPUS",
+        "state": "Jharkhand"
+    },
+        {
+        "name": "BIRLA INSTITUTE OF TECHNOLOGY",
+        "state": "Jharkhand"
+    },
+        {
+        "name": "B I T SINDRI",
+        "state": "Jharkhand"
+    },
+        {
+        "name": "UNIVERSITY POLYTECHNIC, BIT, MESRA",
+        "state": "Jharkhand"
+    },
+        {
+        "name": "CHAIBASA ENGINEERING COLLEGE",
+        "state": "Jharkhand"
+    },
+    {
+        "name": "MAHANT BACHITTAR SINGH COLLEGE OF ENGENEERING & TECHONOLOGY",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "name": "ISLAMIC UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "name": "UNIVERSITY INSTITUTE OF TECHNOLOGY, HIMACHAL PRADESH UNIVERSITY, SUMMERHILL SHIMLA",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "name": "HIMALAYAN INSTITUTE OF ENGINEERING & TECHNOLOGY",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "name": "JAWAHARLAL NEHRU GOVERNMENT ENGINEERING COLLEGE",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "name": "MAHATMA GANDHI GOVERNMENT ENGINEERING COLLEGE KOTLA JEORI, SUMMERHILL SHIMLA",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "name": "CENTRAL UNIVERSITY OF HARYANA",
+        "state": "Haryana"
+    },
+    {
+        "name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY",
+        "state": "Haryana"
+    },
+    {
+        "name": "B.S.ANANGPURIA INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+        "state": "Haryana"
+    },
+    {
+        "name": "SHRI RAM COLLEGE OF ENGINEERING & MANAGEMENT",
+        "state": "Haryana"
+    },
+    {
+        "name": "DRONACHARYA COLLEGE OF ENGINEERING",
+        "state": "Haryana"
+    },
+    {
+        "name": "ADVANCED INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+        "state": "Haryana"
+    },
+    {
+        "name": "NATIONAL INSTITUTE OF FOOD TECHNOLOGY ENTREPRENEURSHIP AND MANAGEMENT NIFTEM DEEMED TO BE UNIVERSITY",
+        "state": "Haryana"
+    },
+    {
+        "name": "GOVERNMENT ENGINEERING COLLEGE, MODASA",
+        "state": "Gujarat"
+    },
+    {
+        "name": "SHREE SWAMINARAYAN INSTITUTE OF TECHNOLOGY",
+        "state": "Gujarat"
+    },
+    {
+        "name": "ADITYA SILVER OAK INSTITUTE OF TECHNOLOGY WITHIN AHMEDABAD MUNICIPAL CORPORATION LIMIT",
+        "state": "Gujarat"
+    },
+    {
+        "name": "DEVANG PATEL INSTITUTE OF ADVANCE TECHNOLOGY AND RESEARCH",
+        "state": "Gujarat"
+    },
+    {
+        "name": "GOVERNMENT ENGINEERING COLLEGE",
+        "state": "Gujarat"
+    },
+    {
+        "name": "SHREE SWAMINARAYAN INSTITUTE OF TECHNOLOGY",
+        "state": "Gujarat"
+    },
+    {
+        "name": "ADITYA SILVER OAK INSTITUTE OF TECHNOLOGY WITHIN AHMEDABAD MUNICIPAL CORPORATION LIMIT",
+        "state": "Gujarat"
+    },
+    {
+        "name": "DEVANG PATEL INSTITUTE OF ADVANCE TECHNOLOGY AND RESEARCH",
+        "state": "Gujarat"
     }
+    
 ]
         
         
