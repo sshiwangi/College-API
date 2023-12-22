@@ -9,7 +9,7 @@ function Demo() {
   useEffect(() => {
     async function fetchStates() {
       try {
-        const response = await axios.get('http://localhost:8000/api/states');
+        const response = await axios.get('https://college-api-p2wx.onrender.com/api/states');
         setStates(response.data.allStates);
       } catch (error) {
         console.log('Error fetching states:', error);
@@ -20,7 +20,7 @@ function Demo() {
 
   async function fetchCollegesByState(state) {
     try {
-      const response = await axios.get('http://localhost:8000/api/colleges', {
+      const response = await axios.get('https://college-api-p2wx.onrender.com/api/colleges', {
         params: {state} //pass selected state as a query parameter
       });
       setColleges(response.data.allCollege);
