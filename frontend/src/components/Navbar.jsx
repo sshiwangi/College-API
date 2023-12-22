@@ -16,8 +16,6 @@ export default function Navbar() {
   const [currentItem, setCurrentItem] = useState(null);
 
   const handleItemClick = (event, itemName) => {
-    // event.preventDefault();
-    // console.log('Item clicked:', itemName);
     setCurrentItem(itemName);
   };
   return (
@@ -67,7 +65,7 @@ export default function Navbar() {
               </div>
             </div>
           </div>
-
+          
           <Disclosure.Panel className="sm:hidden">
             <div className="space-y-1 px-2 pb-3 pt-2">
               {navigation.map((item) => (

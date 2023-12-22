@@ -14,10 +14,12 @@ function Docs() {
     setSelectedItem(item);
 
   };
-
+  
     return (
     <div className='flex'>
+      <div className="hidden sm:block z-40 w-64 h-screen transition-transform -translate-x-full sm:translate-x-0" aria-label="Sidenav">
       <Sidebar selectedItem={selectedItem} handleItemClick={handleItemClick} showAPIOptions={showAPIOptions} setShowAPIOptions={setShowAPIOptions} />
+    </div>
     <div className='h-screen text-gray-900 w-full px-4 py-16'>
     {selectedItem === 'gettingStarted' && <GettingStarted />}
     {selectedItem === 'api' && <GettingStarted />}
