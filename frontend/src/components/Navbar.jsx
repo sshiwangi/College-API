@@ -1,10 +1,11 @@
 import { Fragment, useState } from "react";
 import { Disclosure, Menu, Transition } from "@headlessui/react";
 import { Bars3Icon, BellIcon, XMarkIcon } from "@heroicons/react/24/outline";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
+import { FaGithub } from "react-icons/fa";
 
 const navigation = [
-  { name: "Documentation", href: "/docs"},
+  { name: "Documentation", href: "/docs" },
   { name: "Demo", href: "/demo" },
 ];
 
@@ -40,10 +41,9 @@ export default function Navbar() {
                 <div className="flex flex-shrink-0 items-center text-white font-bold">
                   {" "}
                   <a href="/"> College-Api</a>{" "}
-                  
                 </div>
-                <div className="hidden sm:ml-6 sm:block">
-                  <div className="flex space-x-4">
+                <div className="ml-6 sm:w-full flex justify-between items-center">
+                  <div className="hidden sm:flex space-x-4">
                     {navigation.map((item) => (
                       <Link
                         key={item.name}
@@ -55,17 +55,37 @@ export default function Navbar() {
                             : "text-gray-300 hover:bg-gray-700 hover:text-white",
                           "rounded-md px-3 py-2 text-sm font-medium"
                         )}
-                        aria-current={currentItem === item.name ? "page" : undefined}
+                        aria-current={
+                          currentItem === item.name ? "page" : undefined
+                        }
                       >
                         {item.name}
                       </Link>
                     ))}
                   </div>
+                  <div className="flex space-x-4 items-center">
+                    <a
+                      href="https://forms.gle/pH5oPetXkJi6Zada8"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-gray-300 hover:bg-gray-700 hover:text-white
+                          rounded-md px-3 py-2 text-sm font-medium"
+                    >
+                      Request API Key
+                    </a>
+                    <a
+                      href="https://github.com/sshiwangi/College-API"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaGithub color="white" size={24} />
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-          
+
           <Disclosure.Panel className="sm:hidden">
             <div className="space-y-1 px-2 pb-3 pt-2">
               {navigation.map((item) => (
